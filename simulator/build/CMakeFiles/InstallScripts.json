@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/second_ros2_ws/src/simulator/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
