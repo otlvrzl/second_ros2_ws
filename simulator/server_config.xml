@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<server_config>
+  <plugins>
+    <plugin
+      filename="gz-sim-websocket-server-system"
+      name="gz::sim::systems::WebsocketServer">
+    </plugin>
+  </plugins>
+</server_config>
